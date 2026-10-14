@@ -31,7 +31,7 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=shahadat-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
+  <img src="https://komarev.com/ghpvc/?username=Fahim-&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
   <a href="https://gitlab.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
     <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
