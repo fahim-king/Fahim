@@ -6,7 +6,7 @@
 
 
 > ❖ **`আপনার মেসেঞ্জারকে নিয়ে যান আরও এক ধাপ উপরে!
-আরও স্মার্ট, সহজ ও আধুনিক Messenger Experience-এর জন্য ব্যবহার করুন SHAHADAT CHAT BOT — আপনার মেসেঞ্জারের জন্য একটি Powerful Multi-Device Bot!`**
+আরও স্মার্ট, সহজ ও আধুনিক Messenger Experience-এর জন্য ব্যবহার করুন Fahim CHAT BOT — আপনার মেসেঞ্জারের জন্য একটি Powerful Multi-Device Bot!`**
 
 </div>
 
@@ -20,12 +20,12 @@
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    Fahim CHAT BOT
   </span>
   
 
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By Fahim vai
   </span>
 </p>
 
