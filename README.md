@@ -11,11 +11,11 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+SHAHADAT+CHAT+BOT+Fork!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+✨🦋🔥(✖𝔽𝕒𝕙𝕚𝕞✖)🔥🦋✨+CHAT+BOT+Fork!" />
 </p>
 
 <p align="center">
-  <img src="./assets/logo.svg" width="100%" alt="SHAHADAT SAHU">
+  <img src="./assets/logo.svg" width="100%" alt="✨🦋🔥(✖𝔽𝕒𝕙𝕚𝕞✖)🔥🦋✨">
 </p>
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
